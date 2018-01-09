@@ -30,7 +30,7 @@ The remainder of this time is spent on the tennis court developing a rather inti
 
 ![simon thumbnail](/media/staff/thumbnails/simon.jpg)
 ##### Dr Simon Kenrick
-Simon, alter ego "Spiderman", has been a principle dentist at SDC for X years, providing quality care for patients of all ages. Is not available for appointments on Fridays because hes at the golf course. 
+Simon Kenrick
 
 ---
 
@@ -40,9 +40,7 @@ Simon, alter ego "Spiderman", has been a principle dentist at SDC for X years, p
 
 ![sara thumbnail](/media/staff/thumbnails/sara.jpg)
 ##### Sara Drake
-Sara is available for bookings all through the day in Wednesdays and Thursdays.[^2]
-
-[^2]: basic footnote content
+Sara is available for bookings all through the day in Wednesdays and Thursdays.
 
 ---
 
