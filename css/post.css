@@ -1,7 +1,7 @@
 .content {
 	font-family: Arial, Helvetica, sans-serif;
 	-webkit-font-smoothing: antialiased;
-	display: flex;
+	
 	flex-flow: column;
 	min-height: 100vh;
 }
@@ -11,14 +11,16 @@ h1 {
 	font-weight: 200;
 	line-height: 1.0625;
 	letter-spacing: -0.02em;
+	
 }
 h2 {
 	font-size: 42px;
 	line-height: 1.07885;
 	letter-spacing: -0.016em;
 	font-weight: 200;
-	margin-top: 60px;
+	margin: 90px 0px;
 	clear: both;
+	text-align: center;
 }
 h3 {
 	font-size: 36px;
@@ -106,14 +108,16 @@ a:hover {
 }
 
 .content {
-	flex: 1;
+	
 	font-size: 14px;
 	line-height: 1.7375;
 	letter-spacing: 0.018em;
 	font-weight: 300;
 	margin: 0 auto;
-	width: calc(200px + 40vw);
-	color: #555;
+	color: #333;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neu", Arial, sans-serif;
+
+  line-height: 1.6;
 }
 .content img {
   	max-width: 100%;
@@ -137,31 +141,39 @@ a:hover {
 	object-fit: cover;
 }
 
-.table_of_contents {
-  
+#markdown-toc {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  text-align: center;
 }
 
-.table_of_contents ul {
+#markdown-toc ul {
   list-style-type: none;
 }
 
-.table_of_contents>ul {
-  display: flex;
-  flex-wrap: wrap;
+#markdown-toc>li {
+  margin: 0px 10px 20px 10px;
+  align-content: center;
+  flex-grow: 1;
+}
+#markdown-toc>li>a {
+  color: #b3b1b1;
+  font-weight: 100;
 }
 
-.table_of_contents>ul>li {
+#markdown-toc>li>ul>li {
   min-width: 200px;
   flex-grow: 1;
 }
 
-.table_of_contents>ul>li>a{
+#markdown-toc>ul>li>a{
   font-size: 22px;
   font-weight: bold;
   color: blue;
 }
 
-.table_of_contents>ul>li>ul>li>a{
+#markdown-toc>ul>li>ul>li>a{
   
 }
 

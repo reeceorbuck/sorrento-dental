@@ -31,9 +31,13 @@ The remainder of this time is spent on the tennis court developing a rather inti
 
 ![simon thumbnail](/media/staff/thumbnails/simon.jpg)
 ##### Dr Simon Kenrick
-Simon Kenrick
+Simon was born in England and migrated to Australia in 1963. He completed a Bachelor of Science- majoring in Physics and a Diploma of Teaching in 1977. He taught high school Physics and Chemistry during which time he completed a Bachelor of Science- majoring in Human Biology. In 1990, he was awarded Advanced Skills Teacher.
 
----
+Completed Bachelor of Dental Science with Honours in 1999.
+
+Principal dentist at Sorrento Dental Clinic since 2002.
+
+
 
 
 
@@ -49,7 +53,7 @@ Sara is available for bookings all through the day in Wednesdays and Thursdays.
 ##### Emma Clarke
 Emma divides her time working for us at Sorrento, as well as an orthodontic clinic. Is available for appointments on Fridays.
 
----
+
 
 
 ## Reception
@@ -64,7 +68,7 @@ Outside of business hours Colleen is an avid nature photographer, and some of he
 
 Colleen is passionate about providing great service to our patients and brings about a positive and friendly atmosphere throughout the entire practice.
 
----
+
 
 
 

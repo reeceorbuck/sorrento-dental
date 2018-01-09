@@ -75,17 +75,8 @@ layout: none
         </div>
       </div>  
 
-    <header class="entry-header">
-      {% if post.title != '' %}
-      <h1 class="post-title p-name">
-        <a class="u-url" href="{{ site.github.url }}{{ page.url }}">
-          {{ page.title }}
-        </a>
-      </h1>
-    {% endif %}
-    </header>
 
-    <div class="e-content" id="postMain">
+    <div class="content" id="postMain">
       {% if post.content %}
         {{ post.content }}
       {% else %}
