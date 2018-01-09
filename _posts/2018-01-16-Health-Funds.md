@@ -5,8 +5,8 @@ date:   2018-01-06
 permalink: health-funds/
 thumbnail-image: /media/health-funds/hbflogo.jpg
 feature-image: /media/health-funds/hbflogo.jpg
-tags: 
-- staff
+tags:
+- practiceInformation
 ---
 
 Sorrento Dental Clinic accepts all major health funds, offering rebates that are claimable on the spot using our Hicaps system.  

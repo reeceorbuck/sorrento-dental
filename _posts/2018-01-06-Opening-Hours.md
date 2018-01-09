@@ -3,6 +3,7 @@ layout: post
 title:  "Opening Hours"
 date:   2018-01-06
 permalink: hours/
+thumbnail-image: /media/icons/clock.jpg
 tags: 
 - practiceInformation
 ---

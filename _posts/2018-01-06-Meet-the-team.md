@@ -7,6 +7,7 @@ thumbnail-image: /media/staff/thumbnails/staff.jpg
 feature-image: /media/staff/staff.jpg
 tags: 
 - staff
+- practiceInformation
 ---
 
 * TOC
