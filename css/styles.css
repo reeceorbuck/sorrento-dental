@@ -157,6 +157,10 @@ img {
 	padding-top: 40px;
 }
 
+.posts_category {
+	margin-top: 60px;
+}
+
 .posts {
 	position: relative;
 	display: flex;
