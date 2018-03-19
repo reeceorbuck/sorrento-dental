@@ -45,7 +45,7 @@ Principal dentist at Sorrento Dental Clinic since 2002.
 
 ![sara thumbnail](/media/staff/thumbnails/sara.jpg)
 ##### Sara Drake
-Sara is available for bookings all through the day in Wednesdays and Thursdays.
+Sara is available for bookings all through the day on Wednesdays and Thursdays.
 
 ---
 
@@ -84,10 +84,10 @@ In the Summer Tegan loves Paddleboarding and spends many weekend with her family
 
 ![trish thumbnail](/media/staff/thumbnails/trish.jpg)
 ##### Trish Laruccia
-Trish is works Monday through Thursday at Sorrento dental clinic, chair side as a dental clinical assistant. She has been with us since 2005, following a career working as a flight attendant for qantas. Her hospitality skills are invaluable to us, and she excels at making your experience more comfortable and engaging when you come to visit us for an appointment.
+Trish works Monday through Thursday at Sorrento dental clinic, chair side as a dental clinical assistant. She has been with us since 2005, following a career working as a flight attendant for qantas. Her hospitality skills are invaluable to us, and she excels at making your experience more comfortable and engaging when you come to visit us for an appointment.
 
 Trish has Sicilian heritage, and speaks fluent Italian. She was raised here in WA and went to school in Lesmurdie. Currently, a Trish is looking forward to catching up with family on a European vacation in 2018.
 
-Trish surprised us all in 2016, winning the Sorrento Dental staff footy tipping competition. Not really an AFL fan, it remain a mystery to this day (ahem...Dennis Cometti on the radio) how she managed to pull of that win! 
+Trish surprised us all in 2016, winning the Sorrento Dental staff footy tipping competition. As Trish is not really an AFL fan, it remains a mystery to this day (ahem...Dennis Cometti on the radio) how she managed to pull off that win! 
 
 
