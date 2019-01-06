@@ -43,3 +43,6 @@ gems:
   - jekyll-gist
 
 paginate: 5
+
+# Google Analytics
+google_analytics: UA-131758713-1

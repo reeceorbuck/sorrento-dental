@@ -7,15 +7,11 @@ title: Sorrento Dental Clinic
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
 <head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112169008-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+  
 
-    gtag('config', 'UA-112169008-1');
-  </script>
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+  {% endif %}
 
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
