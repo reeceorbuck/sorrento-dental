@@ -18,24 +18,23 @@ tags:
 
 ![reece thumbnail](/media/staff/thumbnails/reece.jpg)
 ##### Dr Reece Orbuck
-Dr Orbuck has been working with us for the last 4 years. After completing his Bachelor of Dental Science Degree at the University of Western Australia, Reece moved to Bunbury and spent four years providing treatment to the community in and around Bunbury. 
+Dr Orbuck is a partner at Sorrento Dental Clinic and started working here in January 2014. After completing his Bachelor of Dental Science Degree at the University of Western Australia, Reece moved to Bunbury and spent four years providing treatment to the community in and around Bunbury. 
 
 Reece was born in Victoria where he spent his younger years in the town of Torquay before moving to Perth with his family where he completed his high school education, achieving outstanding results. 
 
 He is skilled in all facets of preventive and general operative dentistry, including the treatment of all age groups. He has developed an interest in the special areas of Endodontic and Prosthodontic treatment. He also has a keen interest in innovative new technologies as they apply to Dentistry, and currently spends much of his non-surgical time at the development level. 
 
-The remainder of this time is spent on the tennis court developing a rather intimidating forehand.
+The remainder of this time is spent on the tennis court developing a rather intimidating forehand. He has also put this website together so if you have any comments or advice, please let him know.
 
 ---
 
 
 ![simon thumbnail](/media/staff/thumbnails/simon.jpg)
 ##### Dr Simon Kenrick
-Simon was born in England and migrated to Australia in 1963. He completed a Bachelor of Science- majoring in Physics and a Diploma of Teaching in 1977. He taught high school Physics and Chemistry during which time he completed a Bachelor of Science- majoring in Human Biology. In 1990, he was awarded Advanced Skills Teacher.
+Simon is also a partner at Sorrento Dental Clinic since 2002. He was born in England and migrated to Australia in 1963. He completed a Bachelor of Science- majoring in Physics and a Diploma of Teaching in 1977. He taught high school Physics and Chemistry during which time he completed a Bachelor of Science- majoring in Human Biology. In 1990, he was awarded Advanced Skills Teacher.
 
 Completed Bachelor of Dental Science with Honours in 1999.
 
-Principal dentist at Sorrento Dental Clinic since 2002.
 
 
 
