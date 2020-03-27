@@ -8,6 +8,9 @@ tags:
 - practiceInformation
 ---
 
+# Temporary Closure
+Due to the ongoing COVID-19 situation the practice has been temporarily shut down. See the post on the main page for further details.
+
 # Practice opening hours
 
 Sunday: Closed
