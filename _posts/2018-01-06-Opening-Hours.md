@@ -8,8 +8,8 @@ tags:
 - practiceInformation
 ---
 
-# Temporary Closure
-Due to the ongoing COVID-19 situation the practice has been temporarily shut down. See the post on the main page for further details.
+# Temporary reduced hours
+We are currently in the process of reopening after COVID-19 forced our closure during April and early May. See the post on the main page for further details. There are some minor changes to our availability in the interest of adhering to social distancing measures.
 
 # Practice opening hours
 
@@ -25,4 +25,4 @@ Thursday: 8:30am - 6pm
 
 Friday: 8:30am - 5pm
 
-Saturday: 8:30am - 4pm (Once per fortnight)
+Saturday: By appointment only
