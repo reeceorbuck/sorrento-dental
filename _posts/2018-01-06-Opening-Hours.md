@@ -10,16 +10,16 @@ tags:
 
 # Practice opening hours
 
-Monday: Closed
+Monday: 8:30am - 5pm
 
-Tuesday: 8:30am - 5pm
+Tuesday: 9am - 8pm
 
-Wednesday: 8:30am - 8pm
+Wednesday: 8:30am - 5pm
 
 Thursday: 8:30am - 6pm
 
 Friday: 8:30am - 5pm
 
-Saturday: By appointment only
+Saturday: Closed
 
 Sunday: Closed
