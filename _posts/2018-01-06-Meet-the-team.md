@@ -31,9 +31,7 @@ The remainder of his time is now spent with his wife and new baby Hugo. He has a
 
 ![simon thumbnail](/media/staff/thumbnails/simon.jpg)
 ##### Dr Simon Kenrick
-Simon is also a partner at Sorrento Dental Clinic since 2002. He was born in England and migrated to Australia in 1963. He completed a Bachelor of Science- majoring in Physics and a Diploma of Teaching in 1977. He taught high school Physics and Chemistry during which time he completed a Bachelor of Science- majoring in Human Biology. In 1990, he was awarded Advanced Skills Teacher.
-
-Completed Bachelor of Dental Science with Honours in 1999.
+Simon retired from dentistry at the end of 2021. We wish him all the best on his retirement.
 
 
 
@@ -43,7 +41,7 @@ Completed Bachelor of Dental Science with Honours in 1999.
 ## Hygienists
 
 ##### Jacinta 
-We were happy to welcome Jacinta to the practice in March 2021. She recently moved to Perth from South Australia and has a keen interest in periodontics and tooth whitening. Jacinta is available for bookings all through the day on Tuesdays, Wednesdays and Thursdays.
+We were happy to welcome Jacinta to the practice in March 2021. She recently moved to Perth from South Australia and has a keen interest in periodontics and tooth whitening. Jacinta is available for bookings on most Mondays and Tuesdays.
 
 ---
 
@@ -51,7 +49,11 @@ We were happy to welcome Jacinta to the practice in March 2021. She recently mov
 ##### Emma
 Emma divides her time working for us at Sorrento, as well as an orthodontic clinic. Is available for appointments on Fridays.
 
+---
 
+![sara thumbnail](/media/staff/thumbnails/sara.jpg)
+##### Sara
+Sara has returned to the practice for the first half of 2022 and is currently available for appointments on Thursdays.
 
 
 ## Reception
