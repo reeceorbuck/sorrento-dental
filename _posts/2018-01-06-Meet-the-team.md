@@ -24,7 +24,7 @@ Reece was born in Victoria where he spent his younger years in the town of Torqu
 
 He is skilled in all facets of preventive and general operative dentistry, including the treatment of all age groups. He has developed an interest in the special areas of Endodontic and Prosthodontic treatment. He also has a keen interest in innovative new technologies as they apply to Dentistry, and currently spends much of his non-surgical time at the development level. 
 
-The remainder of his time is now spent with his wife and new baby Hugo. He has also put this website together so if you have any comments or advice, please let him know.
+He is available for appointments from Monday to Friday at the practice. The remainder of his time is now spent with his wife and new baby Hugo. He has also put this website together so if you have any comments or advice, please let him know.
 
 ---
 
