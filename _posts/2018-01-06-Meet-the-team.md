@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Meet the team"
-date:   2018-01-06
+date:   2023-01-01
 permalink: staff/
 thumbnail-image: /media/staff/thumbnails/staff.jpg
 feature-image: /media/staff/staff.jpg
