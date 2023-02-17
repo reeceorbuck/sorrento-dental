@@ -18,13 +18,13 @@ tags:
 
 ![reece thumbnail](/media/staff/thumbnails/reece.jpg)
 ##### Dr Reece Orbuck
-Dr Orbuck is a partner at Sorrento Dental Clinic and started working here in January 2014. After completing his Bachelor of Dental Science Degree at the University of Western Australia, Reece moved to Bunbury and spent four years providing treatment to the community in and around Bunbury. 
+Dr Orbuck is the principle dentist at Sorrento Dental Clinic since 2014. After completing his Bachelor of Dental Science Degree at the University of Western Australia in 2010, Reece moved to Bunbury and spent four years providing treatment to the community in and around Bunbury. 
 
 Reece was born in Victoria where he spent his younger years in the town of Torquay before moving to Perth with his family where he completed his high school education, achieving outstanding results. 
 
 He is skilled in all facets of preventive and general operative dentistry, including the treatment of all age groups. He has developed an interest in the special areas of Endodontic and Prosthodontic treatment. He also has a keen interest in innovative new technologies as they apply to Dentistry, and currently spends much of his non-surgical time at the development level. 
 
-He is available for appointments from Monday to Friday at the practice. The remainder of his time is now spent with his wife and new baby Hugo. He has also put this website together so if you have any comments or advice, please let him know.
+He is currently available for appointments on Mondays, Tuesdays and Thursdays at the practice. He celebrated the birth of his second child, a baby girl, in January 2023. He has also put this website together so if you have any comments or advice, please let him know.
 
 ---
 
@@ -35,7 +35,7 @@ Dr Lance Giudice joined the Sorrento team at the end of 2022. He graduated in 20
 
 Lance is interested in a patient centred approach to care with a strong focus on patient education and involving them in every step of their dental journey. He enjoys working with patients who have dental anxiety and has a repuation as being gentle and patient. 
 
-In his spare time he enjoys gardening, collecting musical instruments and spending time with his family.
+In his spare time he enjoys gardening, collecting musical instruments and spending time with his family. He is currently available on Wednesdays and Fridays for appointments.
 
 
 
@@ -44,14 +44,24 @@ In his spare time he enjoys gardening, collecting musical instruments and spendi
 
 ## Hygienists
 
-##### Jacinta 
-We were happy to welcome Jacinta to the practice in March 2021. She recently moved to Perth from South Australia and has a keen interest in periodontics and tooth whitening. Jacinta is available for bookings on most Mondays and Tuesdays.
-
----
 
 ![emma thumbnail](/media/staff/thumbnails/emma.jpg)
 ##### Emma
-Emma divides her time working for us at Sorrento, as well as an orthodontic clinic. Is available for appointments on Fridays.
+Emma is available for appointments on Mondays and Fridays.
+
+---
+##### Chanelle 
+Chanelle is available for appointments on Tuesdays and Fridays.
+
+---
+
+##### Batool 
+Batool is available for appointments on Thursdays.
+
+---
+
+##### Jacinta 
+We were happy to welcome Jacinta to the practice in March 2021. She recently moved to Perth from South Australia and has a keen interest in periodontics and tooth whitening. Jacinta is available for bookings on most Mondays.
 
 ---
 
