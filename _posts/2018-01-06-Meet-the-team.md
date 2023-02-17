@@ -29,9 +29,13 @@ He is available for appointments from Monday to Friday at the practice. The rema
 ---
 
 
-![simon thumbnail](/media/staff/thumbnails/simon.jpg)
-##### Dr Simon Kenrick
-Simon retired from dentistry at the end of 2021. We wish him all the best on his retirement.
+![lance thumbnail](/media/staff/thumbnails/lance.jpg)
+##### Dr Lance Giudice
+Dr Lance Giudice joined the Sorrento team at the end of 2022. He graduated in 2019 with a Doctor of Dental Medicine from the University of Western Australia. Originally from Perth, Lance began his professional career as a physiotherapist where he worked in the mining town of Tom Price for three years before moving back to Perth to complete his dental degree.
+
+Lance is interested in a patient centred approach to care with a strong focus on patient education and involving them in every step of their dental journey. He enjoys working with patients who have dental anxiety and has a repuation as being gentle and patient. 
+
+In his spare time he enjoys gardening, collecting musical instruments and spending time with his family.
 
 
 
