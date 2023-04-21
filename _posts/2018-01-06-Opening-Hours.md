@@ -10,6 +10,8 @@ tags:
 
 # Practice opening hours
 
+## CLOSED MONDAY 24th APRIL AND TUESDAY 25th APRIL 2023
+
 Monday: 8:30am - 5pm
 
 Tuesday: 9am - 8pm
