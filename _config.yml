@@ -14,7 +14,7 @@ description: Business website for Sorrento Dental Clinic
 webmentions:
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sorrento.dental" # the base hostname & protocol for your site
+url: "https://sorrento.dental" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 instagram_username: jekyll
