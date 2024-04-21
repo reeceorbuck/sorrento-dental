@@ -1,86 +1,92 @@
 ---
 layout: none
 ---
+
 <head>
-  
+  {% if site.google_analytics and jekyll.environment == 'production' %} {%
+  include analytics.html %} {% endif %}
 
-  {% if site.google_analytics and jekyll.environment == 'production' %}
-    {% include analytics.html %}
-  {% endif %}
-  
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-	<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <title>
+    {% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape
+    }}{% endif %}
+  </title>
+  <meta
+    name="description"
+    content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}"
+  />
 
-  <link rel="stylesheet" href= "{{ site.github.url }}/css/main.css">
-  <link rel="stylesheet" href= "{{ site.github.url }}/css/post.css">
-  <link rel="stylesheet" href= "{{ site.github.url }}/css/baguetteBox.min.css">
-  <link rel="stylesheet" href= "{{ site.github.url }}/css/smallHeader.css">
-  
-  <script src="{{ site.github.url }}/scripts/baguetteBox.min.js"></script>
-  <script src="{{ site.github.url }}/scripts/jquery-and-bigfoot.js"></script>
-  <script src="{{ site.github.url }}/scripts/post.js"></script>
+  <link rel="stylesheet" href="{{ site.url }}/css/main.css" />
+  <link rel="stylesheet" href="{{ site.url }}/css/post.css" />
+  <link rel="stylesheet" href="{{ site.url }}/css/baguetteBox.min.css" />
+  <link rel="stylesheet" href="{{ site.url }}/css/smallHeader.css" />
 
-	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.github.url | prepend: site.url }}">
-	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.github.url | prepend: site.url }}">
-  {% seo %}
+  <script src="{{ site.url }}/scripts/baguetteBox.min.js"></script>
+  <script src="{{ site.url }}/scripts/jquery-and-bigfoot.js"></script>
+  <script src="{{ site.url }}/scripts/post.js"></script>
+
+  <link
+    rel="canonical"
+    href="{{ page.url | replace:'index.html',''| prepend: site.url }}"
+  />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}"
+  href="{{ "/feed.xml" | prepend: site.url }}"> {% seo %}
 </head>
 
 <body>
-  
   <div id="header">
     <div id="header_flex">
-        <div id="practice_header_container">
-            <a id="practice_logo" href="/" class="contact_button">
-                <img src="/media/icons/sdcLogoPlain.jpg"/>
-            </a>
-            <div id="practice_name">Sorrento Dental Clinic</div>
-        </div>
-        <div id="contact_button_container">
-            <a href="tel:0892462255" id="call_button" class="contact_button">
-                <img src="/media/icons/phone.svg" class="contact_icon">
-            </a>
-            <a href="mailto:reception@sorrento.dental?Subject=Patient%20enquiry" id="email_button" class="contact_button">
-                <img src="/media/icons/email.svg"/ class="contact_icon">
-            </a>
-            <a id="map_button" class="contact_button" href="http://maps.apple.com/?address=32+Seacrest+Drive,+Sorrento+WA+Australia">
-                <img src="/media/icons/map.svg"/ class="contact_icon">
-            </a>
-        </div>
+      <div id="practice_header_container">
+        <a id="practice_logo" href="/" class="contact_button">
+          <img src="/media/icons/sdcLogoPlain.jpg" />
+        </a>
+        <div id="practice_name">Sorrento Dental Clinic</div>
+      </div>
+      <div id="contact_button_container">
+        <a href="tel:0892462255" id="call_button" class="contact_button">
+          <img src="/media/icons/phone.svg" class="contact_icon" />
+        </a>
+        <a
+          href="mailto:reception@sorrento.dental?Subject=Patient%20enquiry"
+          id="email_button"
+          class="contact_button"
+        >
+          <img src="/media/icons/email.svg"/ class="contact_icon">
+        </a>
+        <a
+          id="map_button"
+          class="contact_button"
+          href="http://maps.apple.com/?address=32+Seacrest+Drive,+Sorrento+WA+Australia"
+        >
+          <img src="/media/icons/map.svg"/ class="contact_icon">
+        </a>
+      </div>
     </div>
   </div>
-  
-  <article class="post h-entry">
-    
-    <div class="hero">
-        <div id="hero-image-wrapper">
-          {% if page.feature-image %}
-            <img id="hero-image" src="{{ page.feature-image }}">
-          {% else %}
-            <img id="hero-image" src="/media/homepage/surgery.jpg">
-          {% endif %}
-        </div>
-        <div id="post-title-wrapper">
-            <div id="post-title-inner">
-                <div id="post-title">{{ page.title }}</div>
-                <div class='post-date'>
-                    <time>{{ page.date | date: '%d %B, %Y' }}</time>
-                </div>
-            </div>
-        </div>
-      </div>  
 
+  <article class="post h-entry">
+    <div class="hero">
+      <div id="hero-image-wrapper">
+        {% if page.feature-image %}
+        <img id="hero-image" src="{{ page.feature-image }}" />
+        {% else %}
+        <img id="hero-image" src="/media/homepage/surgery.jpg" />
+        {% endif %}
+      </div>
+      <div id="post-title-wrapper">
+        <div id="post-title-inner">
+          <div id="post-title">{{ page.title }}</div>
+          <div class="post-date">
+            <time>{{ page.date | date: '%d %B, %Y' }}</time>
+          </div>
+        </div>
+      </div>
+    </div>
 
     <div class="content" id="postMain">
-      {% if post.content %}
-        {{ post.content }}
-      {% else %}
-        {{ content }}
-      {% endif %}
+      {% if post.content %} {{ post.content }} {% else %} {{ content }} {% endif
+      %}
     </div>
-    
   </article>
-  </body>
-
-
+</body>
