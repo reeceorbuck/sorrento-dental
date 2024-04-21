@@ -50,7 +50,7 @@ title: Sorrento Dental Clinic
         <div class="posts_category">
           <div class="post_category_title">Practice Information</div>
           <div class="posts">
-            {% for post in paginator.posts %}
+            {% for post in paginator.posts reverse%}
             <a class= "post_header" href="{{ site.baseurl }}{{ post.url }}">
               {% if post.thumbnail-image %}
                 <div class= "post_thumb_box">

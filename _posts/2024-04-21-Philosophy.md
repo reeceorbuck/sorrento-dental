@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Philosophy
-date:   2024-04-22
+title:  "Philosophy"
+date:   2024-04-21
 permalink: philosophy/
 thumbnail-image: /media/tooth.png
 feature-image: /media/tooth.png

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Technology
-date:   2024-04-21
-permalink: tehnology/
+title:  "Technology"
+date:   2024-04-20
+permalink: technology/
 thumbnail-image: /media/primemill-thumb.jpg
 feature-image: /media/primemill.jpg
 tags: 
