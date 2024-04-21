@@ -24,7 +24,7 @@ Reece was born in Victoria where he spent his younger years in the town of Torqu
 
 He is skilled in all facets of preventive and general operative dentistry, including the treatment of all age groups. He has developed an interest in the special areas of Endodontic and Prosthodontic treatment. He also has a keen interest in innovative new technologies as they apply to Dentistry, and currently spends much of his non-surgical time at the development level. 
 
-He is currently available for appointments on Mondays, Tuesdays and Thursdays at the practice. He celebrated the birth of his second child, a baby girl, in January 2023. He has also put this website together so if you have any comments or advice, please let him know.
+He is available for appointments on Monday, Tuesday and Thursday at the practice. He celebrated the birth of his second child, a baby girl, in January 2023. He has also put this website together so if you have any comments or advice, please let him know.
 
 ---
 
@@ -35,7 +35,7 @@ Dr Lance Giudice joined the Sorrento team at the end of 2022. He graduated in 20
 
 Lance is interested in a patient centred approach to care with a strong focus on patient education and involving them in every step of their dental journey. He enjoys working with patients who have dental anxiety and has a repuation as being gentle and patient. 
 
-In his spare time he enjoys gardening, collecting musical instruments and spending time with his family. He is currently available on Wednesdays and Fridays for appointments.
+In his spare time he enjoys gardening, collecting musical instruments and spending time with his family. He is available on Monday, Tuesday,Wednesday and Friday for appointments.
 
 
 
