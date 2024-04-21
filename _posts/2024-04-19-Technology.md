@@ -20,7 +20,7 @@ On a personal note, this transition into modern digital dentisty has me incredib
 -Dr Reece Orbuck
 
 
-** This is what we are using at the moment:
+## Our digital dentistry equipment:
 - 3Shape Trios 5 wireless intra oral scanner
 - CEREC Primemill
 - Programat CS6 Furnace
