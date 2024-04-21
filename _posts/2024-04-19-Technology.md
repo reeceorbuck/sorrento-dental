@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Technology"
-date:   2024-04-20
+date:   2024-04-19
 permalink: technology/
 thumbnail-image: /media/primemill-thumb.jpg
 feature-image: /media/primemill.jpg

@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Philosophy"
-date:   2024-04-21
+date:   2024-04-20
 permalink: philosophy/
-thumbnail-image: /media/tooth.png
-feature-image: /media/tooth.png
+thumbnail-image: /media/tooth.jpg
+feature-image: /media/tooth.jpg
 tags: 
 - practice information
 ---
