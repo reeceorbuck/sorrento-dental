@@ -9,27 +9,15 @@
 lang: en
 title: Sorrento Dental Clinic
 email: reception@sorrento.dental
-description: Business website for Sorrento Dental Clinic
+description: Sorrento Dental Clinic in Sorrento, Western Australia. We provide a range of dental services including general, cosmetic, and emergency dentistry.
 # Webmentions - leave blank (remove "yes") if you would not like to receive & display webmentions from other sites
 webmentions:
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sorrento.dental" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-instagram_username: jekyll
-flickr_username: jekyll
-foursquare_username:
-# Tumblr URL
-tumblr_url: http://tumblr.com
-# Linkedin profile URL - Expecting a full url, not username
-linkedin_url: http://linkedin.com
-# Facebook profile URL - Expecting a full url, not username
-facebook_url: http://facebook.com
-
 
 # Can be over ridden with author: in Front Matter
-author: Reece
+author: Reece Orbuck
 
 # Expecting a full url, not relative to site.url
 author_img: https://avatars3.githubusercontent.com/u/3083652
