@@ -2,7 +2,7 @@
 layout: post
 title:  Philosophy
 date:   2024-04-22
-permalink: tehnology/
+permalink: philosophy/
 thumbnail-image: /media/tooth.png
 feature-image: /media/tooth.png
 tags: 
