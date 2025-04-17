@@ -7,13 +7,12 @@ thumbnail-image: /media/icons/clock.jpg
 tags: 
 - practiceInformation
 ---
-
-# Practice opening hours
-
 ### CLOSED GOOD FRIDAY- 18th APRIL 2025
 ### CLOSED EASTER MONDAY- 21st APRIL 2025
 ### CLOSED ANZAC DAY- 25th APRIL 2025
 
+
+# Practice opening hours
 Monday:       8:30am - 5pm
 
 Tuesday:      8:30am - 5pm
