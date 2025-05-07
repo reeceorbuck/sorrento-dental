@@ -7,9 +7,8 @@ thumbnail-image: /media/icons/clock.jpg
 tags: 
 - practiceInformation
 ---
-### CLOSED GOOD FRIDAY- 18th APRIL 2025
-### CLOSED EASTER MONDAY- 21st APRIL 2025
-### CLOSED ANZAC DAY- 25th APRIL 2025
+### CLOSED FOR AUSTRALIAN DENTAL CONGRESS 8th, 9th MAY 2025
+Normal operating hours resume Monday 12th May 2025
 
 
 # Practice opening hours
