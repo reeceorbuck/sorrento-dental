@@ -7,8 +7,10 @@ thumbnail-image: /media/icons/clock.jpg
 tags: 
 - practiceInformation
 ---
-### CLOSED FOR AUSTRALIAN DENTAL CONGRESS 8th, 9th MAY 2025
-Normal operating hours resume Monday 12th May 2025
+### XMAS 2025 Holiday Closure
+-Closed Christmas Eve, December 30th and 31st.
+-Closed for public Holidays.
+-Normal operating hours resume Friday 2nd January 2026.
 
 
 # Practice opening hours
