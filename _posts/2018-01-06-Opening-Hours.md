@@ -7,10 +7,12 @@ thumbnail-image: /media/icons/clock.jpg
 tags: 
 - practiceInformation
 ---
-### XMAS 2025 Holiday Closure
--Closed Christmas Eve, December 30th and 31st.
--Closed for public Holidays.
--Normal operating hours resume Friday 2nd January 2026.
+### Xmas 2025 Holiday Availability
+- Closed Christmas Eve, December 30th and 31st.
+
+- Closed for public Holidays (Dec 25th, 26th, Jan 1st).
+
+- Normal operating hours resume Friday 2nd January 2026.
 
 
 # Practice opening hours
