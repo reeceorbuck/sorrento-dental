@@ -7,9 +7,7 @@ thumbnail-image: /media/icons/clock.jpg
 tags: 
 - practiceInformation
 ---
-### CLOSED GOOD FRIDAY- 18th APRIL 2025
-### CLOSED EASTER MONDAY- 21st APRIL 2025
-### CLOSED ANZAC DAY- 25th APRIL 2025
+### CLOSED PUBLIC HOLIDAYS
 
 
 # Practice opening hours

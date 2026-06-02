@@ -58,25 +58,3 @@ Chanelle is available for appointments on Tuesdays and Fridays.
 ![sara thumbnail](/media/staff/thumbnails/sara.jpg)
 ##### Sara
 Sara is available for appointments on Thursdays.
-
-
-## Reception
-
-![colleen thumbnail](/media/staff/thumbnails/colleen.jpg)
-##### Colleen
-Colleen’s friendly face has welcomed you to Sorrento Dental since 1990. As our practice manager and head receptionist, Colleen keeps the practice running smoothly each day, all while making appointment bookings. Colleen also has extensive experience chair-side, having trained as a dental clinical assistant in Busselton, which gives her the insight to assess many presenting conditions and schedule your appointments appropriately, as well as preparing the clinicians to manage your case. 
-
-
-## Dental Nurses
-
-![tegan thumbnail](/media/staff/thumbnails/tegan.jpg)
-##### Tegan
-Tegan started working at Sorrento dental in 2011, after completing her training at Dental Nursing Australia in South Perth in 2008. Tegan grew up in Denmark in the South West of WA and attended John Curtin High Senior High in Fremantle.
-
----
-
-![trish thumbnail](/media/staff/thumbnails/trish.jpg)
-##### Trish
-Trish works Monday through Thursday at Sorrento dental clinic, chair side as a dental clinical assistant. She has been with us since 2005, following a career working as a flight attendant for qantas. Her hospitality skills are invaluable to us, and she excels at making your experience more comfortable and engaging when you come to visit us for an appointment.
-
-Trish has Sicilian heritage, and speaks fluent Italian. She was raised here in WA and went to school in Lesmurdie. 
